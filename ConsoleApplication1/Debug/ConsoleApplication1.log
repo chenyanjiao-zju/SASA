@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+d:\app\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+d:\app\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+d:\app\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(293): warning C4018: “>=”: 有符号/无符号不匹配
+d:\app\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+d:\app\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> D:\APP\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\APP\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
